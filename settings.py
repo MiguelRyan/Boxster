@@ -12,4 +12,6 @@ class Settings:
 
         # Play screen settings
         self.game_name = "Boxster"
-        self.title_label_colour = (255, 255, 255)
+        self.title_label_colour = (153, 204, 255)
+        self.description = "Fill up most of the screen with boxes while avoiding enemies, " \
+                           "Use the character to start the game."
